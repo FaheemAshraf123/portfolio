@@ -15,8 +15,8 @@ function About() {
         <div className="SectionTitle">About Me</div>
         <div className="BigCard">
           <Image
-            src="https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/man-svgrepo-com.svg"
-            alt="man-svgrepo"
+            src="https://i.ibb.co/Tqgyx7w/Whats-App-Image-2023-09-26-at-07-11-35-removebg-preview.png"
+            alt="man_png"
           />
           <div className="AboutBio" style={{textAlign : "justify"}}>
             👋 Hi, My name is <strong>Nnaji Benjamin</strong>, a passionate
@@ -32,7 +32,7 @@ function About() {
             <strong>
               <a href="mailto:Chinedubenj@gmail.com">Gmail</a>
             </strong>{" "}
-            or connect with me on
+            or connect with me on {" "}
             <strong>
               <a
                 href="https://www.linkedin.com/in/nnaji-benjamin-542773182/"

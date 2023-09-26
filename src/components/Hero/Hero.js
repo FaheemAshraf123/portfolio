@@ -26,12 +26,12 @@ function Hero() {
             <h1>Hi, I'm Nnaji Benjamin</h1>
             <h5>Frontend Developer</h5>
             <p>
-            👨‍💻I specialize in turning design concepts into interactive web applications using a powerful stack of technologies.            </p>
+            👨‍💻 I specialize in turning design concepts into interactive web applications using a powerful stack of technologies.            </p>
           </HeroLeft>
           <HeroRight>
             <Image
-              src="https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/man-svgrepo-com.svg"
-              alt="man-svgrepo"
+              src="https://i.ibb.co/Tqgyx7w/Whats-App-Image-2023-09-26-at-07-11-35-removebg-preview.png"
+              alt="man_png"
             />
           </HeroRight>
         </HeroWrapper>
