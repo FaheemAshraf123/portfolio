@@ -4,7 +4,7 @@ export const ProjectList = [
     img: "https://i.ibb.co/vwF4bNp/stayInn.png",
     title: "StayInn Booking",
     description: "A hotel booking platform, where your lodging experience becomes easier and more enjoyable.",
-    tech_stack: "Html, Css, Javascript",
+    tech_stack: "Html, Css, JavaScript",
     github_url: "https://github.com/Benjtalkshow/stay-inn-estate-platform",
     demo_url: "https://stay-inn-hotel.netlify.app/",
   },
@@ -13,7 +13,7 @@ export const ProjectList = [
     title: "Upward Airline Dashboard",
     description:
       "Upward Airlines Corporate Dashboard: Web-based app for monitoring airline performance, with intuitive interface, grid layout, and key features for data analysis and decision-making by administrators and employees.",
-    tech_stack: "Html, Css, Javascript",
+    tech_stack: "Html, Css, JavaScript",
     github_url: "https://github.com/Benjtalkshow/Upward-Airlines-Corporate-Dashboard",
     demo_url: "https://upward-airlines-corporate-dashboard.netlify.app/",
   },
@@ -21,7 +21,7 @@ export const ProjectList = [
     img: "https://i.ibb.co/X7FzSxt/movieBox.png",
     title: "MovieBox",
     description: "The TMDB Movie App is an interactive movie application that retrieves movie data from The Movie Database (TMDb) API.",
-    tech_stack: "Reactjs, Tailwindcss",
+    tech_stack: "Reactjs, TailwindCss",
     github_url: "https://github.com/Benjtalkshow/HNG-TaskTwo",
     demo_url: "https://hng10-task-two.netlify.app/",
   },
@@ -30,18 +30,36 @@ export const ProjectList = [
     title: "Quiz Web App",
     description:
       "Ultimate Online Quiz Project for newbies, in FrontEnd development.",
-    tech_stack: "Reactjs, Css",
+    tech_stack: "Reactjs, TailwindCss",
     github_url: "https://github.com/Benjtalkshow/quizapp",
     demo_url: "https://quiz-apk.netlify.app/",
   },
   {
     img: "https://i.ibb.co/vmbMtwf/gallery.png",
-    title: "CkaePixie Gallery",
+    title: "CakePixie Gallery",
     description:
-      "The TMDB Movie App is an interactive movie application that retrieves movie data from The Movie Database (TMDb) API.",
-    tech_stack: "Reactjs, Tailwindcss",
-    github_url: "https://github.com/Benjtalkshow/HNG-TaskTwo",
-    demo_url: "https://hng10-task-two.netlify.app/"
+      "This is a React project that allows users to search for images based on tags or search terms and display the results with a drag-and-drop interface.",
+    tech_stack: "Reactjs, TailwindCss",
+    github_url: "https://github.com/Benjtalkshow/HNG-TaskThree",
+    demo_url: "https://hng-task-three-blond.vercel.app/"
+  },
+  {
+    img: "https://i.ibb.co/bKz7898/valutico.png",
+    title: "Valutico Static Landing Page",
+    description:
+      "The World's Leading Business Valuation Software Valutico provides the financial services industry and valuation experts with data driven tools to perform accurate company valuations faster and more accurately than ever before.",
+    tech_stack: "Html, JavaScript, TailwindCss",
+    github_url: "https://github.com/Benjtalkshow/valutico",
+    demo_url: "https://valutico-business-valuation.netlify.app/"
+  },
+  {
+    img: "https://i.ibb.co/Nn3XWmp/todo.png",
+    title: "Todo App",
+    description:
+      "My Todo App is a simple to-do app built with React that allows you to manage your tasks. It provides features to add, delete, and update tasks, and utilizes local storage for persistent data storage.",
+    tech_stack: "Reactjs, TailwindCss",
+    github_url: "https://github.com/Benjtalkshow/todo-app",
+    demo_url: "https://benjamin-todo-app.vercel.app/"
   },
 ];
 

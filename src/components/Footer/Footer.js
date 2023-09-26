@@ -2,16 +2,14 @@ import React from "react";
 import styled from "styled-components";
 
 const FooterSection = styled.div`
-  background-image: url(https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/footer_wave.svg);
-  background-repeat: no-repeat;
-  background-size: cover;
+  background: #151418;
+  display : flex;
+  text-align: center;
+  align-items: center;
   width: 100%;
-  height: 250px;
-  position: relative;
+  height: 200px;
 
   span {
-    position: absolute;
-    bottom: 4rem;
     color: #fff;
 
     a {
@@ -24,13 +22,13 @@ function Footer() {
     <FooterSection>
       <div className="Container">
         <span>
-          Coded with 💙 by{" "}
+        ©2023 By{" "}
           <a
-            href="https://github.com/gurupawar/"
+            href="https://github.com/Benjtalkshow"
             target="_blank"
             rel="noopener noreferrer"
           >
-            @gurupawar
+            @Benjtalkshow
           </a>{" "}
         </span>
       </div>

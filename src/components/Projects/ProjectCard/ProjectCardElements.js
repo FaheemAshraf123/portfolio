@@ -23,6 +23,11 @@ export const CardLeft = styled.div`
   img {
     border-radius: 3px;
     height: auto;
+    object-fit: cover;
+    -moz-object-fit: cover;
+    object-position: center;
+    -moz-object-position: center;
+    height : 100%;
   }
 `;
 
