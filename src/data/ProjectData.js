@@ -30,7 +30,7 @@ export const ProjectList = [
     title: "Quiz Web App",
     description:
       "Ultimate Online Quiz Project for newbies, in FrontEnd development.",
-    tech_stack: "Reactjs, TailwindCss",
+    tech_stack: "Html, JavaScript, TailwindCss",
     github_url: "https://github.com/Benjtalkshow/quizapp",
     demo_url: "https://quiz-apk.netlify.app/",
   },
