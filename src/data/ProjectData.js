@@ -46,7 +46,6 @@ export const ProjectList = [
     demo_url: "https://upward-airlines-corporate-dashboard.netlify.app/",
   },
   {
-    // "https://i.ibb.co/X7FzSxt/movieBox.png"
     img: moviebox,
     title: "MovieBox",
     description: "The TMDB Movie App is an interactive movie application that retrieves movie data from The Movie Database (TMDb) API.",
@@ -55,7 +54,6 @@ export const ProjectList = [
     demo_url: "https://hng10-task-two.netlify.app/",
   },
   {
-    // "https://i.ibb.co/vdZD3Ld/quizApk.png"
     img: quizApk,
     title: "Quiz Web App",
     description:
@@ -84,7 +82,6 @@ export const ProjectList = [
     demo_url: "https://valutico-business-valuation.netlify.app/"
   },
   {
-    // "https://i.ibb.co/Nn3XWmp/todo.png",
     img: todo, 
     title: "Todo App",
     description:
