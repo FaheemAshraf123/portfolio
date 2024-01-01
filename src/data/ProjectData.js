@@ -1,7 +1,7 @@
 // --------------------------------------- Project List
 import gridape from "../Assets/gridape.png"
 import blog from "../Assets/blog.png"
-import stayinn from "../Assets/stayinn.png"
+// import stayinn from "../Assets/stayinn.png"
 import dashboard from "../Assets/dashboard.png"
 import moviebox from "../Assets/moviebox.png"
 import quizApk from "../Assets/quizApk.png"
@@ -26,17 +26,15 @@ export const ProjectList = [
     github_url: "https://github.com/Benjtalkshow/metaBlog",
     demo_url: "https://meta-blog-orcin.vercel.app/",
   },
+  // {
+  //   img: stayinn,
+  //   title: "StayInn Booking",
+  //   description: "A hotel booking platform, where your lodging experience becomes easier and more enjoyable.",
+  //   tech_stack: "Html, Css, JavaScript",
+  //   github_url: "https://github.com/Benjtalkshow/stay-inn-estate-platform",
+  //   demo_url: "https://stay-inn-hotel.netlify.app/",
+  // },
   {
-      // "https://i.ibb.co/vwF4bNp/stayInn.png"
-    img: stayinn,
-    title: "StayInn Booking",
-    description: "A hotel booking platform, where your lodging experience becomes easier and more enjoyable.",
-    tech_stack: "Html, Css, JavaScript",
-    github_url: "https://github.com/Benjtalkshow/stay-inn-estate-platform",
-    demo_url: "https://stay-inn-hotel.netlify.app/",
-  },
-  {
-    // "https://i.ibb.co/zJZrN2g/airline-Dashboard.png"
     img: dashboard,
     title: "Upward Airline Dashboard",
     description:
@@ -63,7 +61,6 @@ export const ProjectList = [
     demo_url: "https://quiz-apk.netlify.app/",
   },
   {
-    // "https://i.ibb.co/vmbMtwf/gallery.png"
     img: gallery ,
     title: "CakePixie Gallery",
     description:
