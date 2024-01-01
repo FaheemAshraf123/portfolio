@@ -1,7 +1,34 @@
 // --------------------------------------- Project List
+import gridape from "../Assets/gridape.png"
+import blog from "../Assets/blog.png"
+import stayinn from "../Assets/stayinn.png"
+import dashboard from "../Assets/dashboard.png"
+import moviebox from "../Assets/moviebox.png"
+import quizApk from "../Assets/quizApk.png"
+import gallery from "../Assets/gallery.png"
+import todo from "../Assets/todo.png"
+
+
 export const ProjectList = [
   {
-    img: "https://i.ibb.co/vwF4bNp/stayInn.png",
+    img: gridape,
+    title: "Gridape Waitlist",
+    description: "Gridape is not just a tool. it is your partner in crafting compelling narratives that resonate with your audience. Whether you are a seasoned marketer or just starting, Gridape simplifies the complex, making email marketing an enjoyable and effective experience.",
+    tech_stack: "NextJs, Typescript, TailwindCss",
+    github_url: "#",
+    demo_url: "https://gridape.com/",
+  },
+  {
+    img: blog,
+    title: "Meta Blog",
+    description : "Meta Blog is an individual blog created using React, employing Firebase as a backend service. It utilizes Redux Toolkit to manage global state and FireCMS for content management. The blog features administrator login authentication, an admin panel, real-time content updates, and post categories.",
+    tech_stack: "React, Redux-Toolkit, Firebase, Firecms, TailWindCss",
+    github_url: "https://github.com/Benjtalkshow/metaBlog",
+    demo_url: "https://meta-blog-orcin.vercel.app/",
+  },
+  {
+      // "https://i.ibb.co/vwF4bNp/stayInn.png"
+    img: stayinn,
     title: "StayInn Booking",
     description: "A hotel booking platform, where your lodging experience becomes easier and more enjoyable.",
     tech_stack: "Html, Css, JavaScript",
@@ -9,7 +36,8 @@ export const ProjectList = [
     demo_url: "https://stay-inn-hotel.netlify.app/",
   },
   {
-    img: "https://i.ibb.co/zJZrN2g/airline-Dashboard.png",
+    // "https://i.ibb.co/zJZrN2g/airline-Dashboard.png"
+    img: dashboard,
     title: "Upward Airline Dashboard",
     description:
       "Upward Airlines Corporate Dashboard: Web-based app for monitoring airline performance, with intuitive interface, grid layout, and key features for data analysis and decision-making by administrators and employees.",
@@ -18,7 +46,8 @@ export const ProjectList = [
     demo_url: "https://upward-airlines-corporate-dashboard.netlify.app/",
   },
   {
-    img: "https://i.ibb.co/X7FzSxt/movieBox.png",
+    // "https://i.ibb.co/X7FzSxt/movieBox.png"
+    img: moviebox,
     title: "MovieBox",
     description: "The TMDB Movie App is an interactive movie application that retrieves movie data from The Movie Database (TMDb) API.",
     tech_stack: "Reactjs, TailwindCss",
@@ -26,7 +55,8 @@ export const ProjectList = [
     demo_url: "https://hng10-task-two.netlify.app/",
   },
   {
-    img: "https://i.ibb.co/vdZD3Ld/quizApk.png",
+    // "https://i.ibb.co/vdZD3Ld/quizApk.png"
+    img: quizApk,
     title: "Quiz Web App",
     description:
       "Ultimate Online Quiz Project for newbies, in FrontEnd development.",
@@ -35,11 +65,12 @@ export const ProjectList = [
     demo_url: "https://quiz-apk.netlify.app/",
   },
   {
-    img: "https://i.ibb.co/vmbMtwf/gallery.png",
+    // "https://i.ibb.co/vmbMtwf/gallery.png"
+    img: gallery ,
     title: "CakePixie Gallery",
     description:
-      "This is a React project that allows users to search for images based on tags or search terms and display the results with a drag-and-drop interface.",
-    tech_stack: "Reactjs, TailwindCss",
+      "This is a React project that allows users to search for images based on tags or search terms and display the results with a drag-and-drop interface. Login with default credentials;'user@example.com, 1Password'",
+    tech_stack: "Reactjs, TailwindCss, firebase",
     github_url: "https://github.com/Benjtalkshow/HNG-TaskThree",
     demo_url: "https://hng-task-three-blond.vercel.app/"
   },
@@ -53,7 +84,8 @@ export const ProjectList = [
     demo_url: "https://valutico-business-valuation.netlify.app/"
   },
   {
-    img: "https://i.ibb.co/Nn3XWmp/todo.png",
+    // "https://i.ibb.co/Nn3XWmp/todo.png",
+    img: todo, 
     title: "Todo App",
     description:
       "My Todo App is a simple to-do app built with React that allows you to manage your tasks. It provides features to add, delete, and update tasks, and utilizes local storage for persistent data storage.",
