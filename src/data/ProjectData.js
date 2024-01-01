@@ -1,12 +1,12 @@
 // --------------------------------------- Project List
-import gridape from "../Assets/gridape.png"
-import blog from "../Assets/blog.png"
+import gridape from "../assets/gridape.png"
+import blog from "../assets/blog.png"
 // import stayinn from "../Assets/stayinn.png"
-import dashboard from "../Assets/dashboard.png"
-import moviebox from "../Assets/moviebox.png"
-import quizApk from "../Assets/quizApk.png"
-import gallery from "../Assets/gallery.png"
-import todo from "../Assets/todo.png"
+import dashboard from "../assets/dashboard.png"
+import moviebox from "../assets/moviebox.png"
+import quizApk from "../assets/quizApk.png"
+import gallery from "../assets/gallery.png"
+import todo from "../assets/todo.png"
 
 
 export const ProjectList = [
