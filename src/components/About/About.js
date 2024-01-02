@@ -15,7 +15,7 @@ function About() {
         <div className="SectionTitle">About Me</div>
         <div className="BigCard">
           <Image
-            src="https://i.ibb.co/Tqgyx7w/Whats-App-Image-2023-09-26-at-07-11-35-removebg-preview.png"
+            src="https://i.ibb.co/k1xdY1f/Whats-App-Image-2023-09-26-at-07-11-35-removebg-preview.png"
             alt="man_png"
           />
           <div className="AboutBio" style={{textAlign : "justify"}}>
