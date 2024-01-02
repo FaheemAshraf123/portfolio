@@ -70,7 +70,7 @@ export const ProjectList = [
     demo_url: "https://hng-task-three-blond.vercel.app/"
   },
   {
-    img: "https://i.ibb.co/bKz7898/valutico.png",
+    img: "https://i.ibb.co/mR2trfN/valutico.png",
     title: "Valutico Static Landing Page",
     description:
       "The World's Leading Business Valuation Software Valutico provides the financial services industry and valuation experts with data driven tools to perform accurate company valuations faster and more accurately than ever before.",
