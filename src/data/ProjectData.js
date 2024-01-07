@@ -27,6 +27,14 @@ export const ProjectList = [
     demo_url: "https://meta-blog-orcin.vercel.app/",
   },
   {
+    img: "  https://i.ibb.co/QYFg2CJ/event.png",
+    title: "Event App (UI only)",
+    description : "Event app lets users schedule events, host friends and create event groups.",
+    tech_stack: "Nextjs, TypeScript, TailWindCss, (I collaborated with other developers)",
+    github_url: "https://github.com/Benjtalkshow/Event-app-collab/",
+    demo_url: "https://event-app-collab.vercel.app/",
+  },
+  {
     img: "https://i.ibb.co/Q67V8pF/stayinn.png",
     title: "StayInn Booking",
     description: "A hotel booking platform, where your lodging experience becomes easier and more enjoyable.",
