@@ -1,0 +1,7 @@
+.cardAnimation:hover{
+    padding: 2em;
+    margin: 0 auto;
+    text-align: center;
+    box-shadow: var(--shadow);
+    transition: transform .2s linear;
+}
