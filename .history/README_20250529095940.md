@@ -1,0 +1,68 @@
+# my-portfolio
+
+my-portfolio is a portfolio template built with React. However, if you prefer a template built with HTML, CSS, and JavaScript, you can check out [portfolio Minimal](https://github.com/FaheemAshraf123/portfolio).
+
+## Preview
+
+
+https://FaheemAshraf123.github.io/my-portfolio
+
+[Live Demo](https://FaheemAshraf123.github.io/portfolio)
+
+## Instructions
+
+### Setup
+
+```shell
+git clone https://github.com/FaheemAshraf123/portfolio
+cd my-portfolio
+```
+
+
+```shell
+nvm install
+nvm use
+```
+
+Or:
+
+```shell
+fnm install
+fnm use
+```
+
+To install and launch the project, run these commands:
+
+```shell
+yarn
+yarn start
+```
+
+### How to Use
+
+- Open the `public/index.html` file and replace:
+
+`<title>Faheem Ashraf</title>` with `<title>Your Name</title>`.
+
+- Open the `src/portfolio.js` file and make the necessary changes.
+
+### Deployment
+
+- In the `package.json` file, update:
+
+`"homepage": "https://FaheemAshraf123.github.io/portfolio"`
+
+to `"homepage": "https://yourusername.github.io"`.
+
+- Push the changes to your repository.
+
+- To build and deploy, run the following commands:
+
+```shell
+yarn build
+yarn deploy
+```
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
