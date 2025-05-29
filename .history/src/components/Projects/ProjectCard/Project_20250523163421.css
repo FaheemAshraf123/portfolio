@@ -1,0 +1,28 @@
+.cardAnimation1:hover{
+    padding: 2em;
+    margin: 0 auto;
+    text-align: center;
+    box-shadow: var(--shadow);
+    transition: transform .2s linear;
+}
+.cardAnimation2:hover{
+    padding: 2em;
+    margin: 0 auto;
+    text-align: center;
+    box-shadow: var(--shadow);
+    transition: transform .2s linear;
+}
+.cardAnimation3:hover{
+    padding: 2em;
+    margin: 0 auto;
+    text-align: center;
+    box-shadow: var(--shadow);
+    transition: transform .2s linear;
+}
+.cardAnimation4:hover{
+    padding: 2em;
+    margin: 0 auto;
+    text-align: center;
+    box-shadow: var(--shadow);
+    transition: transform .2s linear;
+}

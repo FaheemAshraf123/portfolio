@@ -1,0 +1,12 @@
+.card:hover{
+    transform: translateY(-7px);
+}
+.cardAnimation2:hover{
+  transform: translateY(-7px);
+}
+.cardAnimation3:hover{
+   transform: translateY(-7px);
+}
+.cardAnimation0:hover{
+   transform: translateY(-7px);
+}
